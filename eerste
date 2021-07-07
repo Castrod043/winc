@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- hier zet je de code in de head tags -->
+        <title>Castro 4 president </title>
+    </head>
+    <body>
+       <h1>Dit is mijn H1 Heading</h1>
+       <h2>Dit is een H2 Heading</h2>
+       <p>En mijn eerste paragraph,<br>met een lijntje<br></p>
+       <hr>
+
+    </body>
+</html>
